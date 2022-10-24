@@ -16,14 +16,14 @@ hr {
 
 .upcloud {
   position: absolute;
-  right: 15.6rem;
+  right: 15%;
   top: 70px;
 }
 
 .downcloud {
   position: absolute;
-  left: 15.6rem;
-  bottom: 400px;
+  left: 15%;
+  bottom: 370px;
 }
 
 h1 {
@@ -140,7 +140,7 @@ h3 {
 }
 
 .bottom-container {
-  background-color: #75bcc7;
+  background-color: #c1dee3;
   padding: 30px;
   line-height: 3;
 }
@@ -149,12 +149,12 @@ h3 {
   color: #34808c;
   margin: auto 30px auto 30px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 90%;
   font-weight: bolder;
 }
 
 .icons {
-  color: #c7e8ed;
+  color: #54BAB9;
 }
 
 .iconlink {
@@ -163,7 +163,7 @@ h3 {
 }
 
 .copyright {
-  color: #F3F9FB;
+  color: black;
   font-size: 0.7rem;
 }
 
